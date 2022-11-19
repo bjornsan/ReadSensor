@@ -61,10 +61,6 @@ namespace ReadSensor
                     // set timeSinceLastSampled to current time.
                     timeSinceLastSampled = timeNow;
 
-                    // Making sure the file index, and sample index have not changed after thread execution
-                    //var fileIndexOnFileRead = fileIndex;
-                    //var sampleIndexOnFileRead = sampleIndex;
-
                     // Getting data from sensor.
                     try
                     {
