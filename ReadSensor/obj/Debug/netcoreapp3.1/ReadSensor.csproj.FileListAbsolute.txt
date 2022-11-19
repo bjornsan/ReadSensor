@@ -1,0 +1,16 @@
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\bin\Debug\netcoreapp3.1\ReadSensor.exe
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\bin\Debug\netcoreapp3.1\ReadSensor.deps.json
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\bin\Debug\netcoreapp3.1\ReadSensor.runtimeconfig.json
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\bin\Debug\netcoreapp3.1\ReadSensor.runtimeconfig.dev.json
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\bin\Debug\netcoreapp3.1\ReadSensor.dll
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\bin\Debug\netcoreapp3.1\ReadSensor.pdb
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\obj\Debug\netcoreapp3.1\ReadSensor.csproj.AssemblyReference.cache
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\obj\Debug\netcoreapp3.1\ReadSensor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\obj\Debug\netcoreapp3.1\ReadSensor.AssemblyInfoInputs.cache
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\obj\Debug\netcoreapp3.1\ReadSensor.AssemblyInfo.cs
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\obj\Debug\netcoreapp3.1\ReadSensor.csproj.CoreCompileInputs.cache
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\obj\Debug\netcoreapp3.1\ReadSensor.dll
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\obj\Debug\netcoreapp3.1\ReadSensor.pdb
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\obj\Debug\netcoreapp3.1\ReadSensor.genruntimeconfig.cache
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bjorn\source\repos\ReadSensor\ReadSensor\obj\Debug\netcoreapp3.1\ReadSensor.csproj.CopyComplete
